@@ -1,0 +1,15 @@
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\bin\Debug\net6.0\DesafioXenlongao.exe
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\bin\Debug\net6.0\DesafioXenlongao.deps.json
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\bin\Debug\net6.0\DesafioXenlongao.runtimeconfig.json
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\bin\Debug\net6.0\DesafioXenlongao.dll
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\bin\Debug\net6.0\ref\DesafioXenlongao.dll
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\bin\Debug\net6.0\DesafioXenlongao.pdb
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\obj\Debug\net6.0\DesafioXenlongao.csproj.AssemblyReference.cache
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\obj\Debug\net6.0\DesafioXenlongao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\obj\Debug\net6.0\DesafioXenlongao.AssemblyInfoInputs.cache
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\obj\Debug\net6.0\DesafioXenlongao.AssemblyInfo.cs
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\obj\Debug\net6.0\DesafioXenlongao.csproj.CoreCompileInputs.cache
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\obj\Debug\net6.0\DesafioXenlongao.dll
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\obj\Debug\net6.0\ref\DesafioXenlongao.dll
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\obj\Debug\net6.0\DesafioXenlongao.pdb
+C:\Desafios_DecolaTech\DesafioXenlongao\DesafioXenlongao\DesafioXenlongao\obj\Debug\net6.0\DesafioXenlongao.genruntimeconfig.cache
